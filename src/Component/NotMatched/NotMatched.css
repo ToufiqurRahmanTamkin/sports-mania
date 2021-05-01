@@ -1,0 +1,9 @@
+.notfound-div{
+    text-align: center;
+    margin-top: 100px;
+    border: 1px solid red;
+    background-color: rgb(142, 179, 221);
+    height: 100px;
+    border-radius: 10px;
+    padding-top: 8px;
+}

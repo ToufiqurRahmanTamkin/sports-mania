@@ -1,0 +1,25 @@
+.card-container{
+    display: flex;
+}
+#card{
+    display: flex;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    width: 280px;
+    height: 300px;
+    border: 1px solid rgb(107, 105, 223);
+    margin: 1px;
+    max-width: max-content;
+    background-color: rgb(156, 206, 226);
+    border-radius: 10px;
+}
+
+#team-image{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    margin: auto;
+    margin-top: 25px;
+}

@@ -1,0 +1,28 @@
+.image-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#bg-banner-image{
+    border-radius: 10px;
+}
+
+.teamDetails{
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.teamImage{
+    height: 160px;
+    width: 350px;
+}
