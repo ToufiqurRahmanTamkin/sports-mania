@@ -5,4 +5,4 @@ This application is responsible for both the computer screen and mobile screen.
 
 This application is developed by me using react routing, font awesome, and react-bootstrap.
 
-[Sports Mania Live Site](https://jovial-euler-2a9421.netlify.app/)
+[Sports Mania Live Site](https://sportsmaniatoufiqur.netlify.app/)
